@@ -29,6 +29,7 @@
 | [IL3895](IL3895.pdf)          | [SSD1673A](SSD1673A.pdf)   |    150 | 250  | `11_560` x `1_286` |
 | [IL3897](IL3897.pdf)          | [SSD1675B](SSD1675B.pdf)   |    160 | 296  |  `9_661` x `1_125` |
 | [IL91874](IL91874.pdf)        | [EK79652AA](EK79652AA.pdf) |    320 | 300  | `15_550` x `1_160` |
+| [IT8951](IT8951_D_V0.2.4.3_20170728.pdf) |                 |   2048 | 2048 |                    |
 | [JD79632A](JD79632A.pdf)      | EK7616                     |    960 | 640  |                    |
 | [JD79651AB](JD79651.pdf)      |                            |        |      |                    |
 | [JD79651C](JD79651CA_DS_V1.0.1_20210409.pdf) |             |    176 | 296  |                    |
@@ -110,6 +111,7 @@
 | GD     | [Good Display](https://www.good-display.com)                                  |
 | HX     | [Himax Technologies](https://www.himax.com.tw)                                |
 | IL     | [Good Display](https://www.good-display.com)                                  |
+| IT     | [ITE Tech. Inc.](https://www.ite.com.tw/en/product/cate5)                     |
 | JD     | [Jadard Technology](http://tdytech.com)                                       |
 | SSD    | [Solomon Systech Limited](https://www.solomon-systech.com)                    |
 | TPS    | [Texas Instruments Incorporated](https://www.ti.com)                          |
