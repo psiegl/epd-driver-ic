@@ -43,6 +43,7 @@
 | [JD79676A](JD79676A.pdf)      |                            |    128 | 250  |                    |
 | [JD79686A](JD79686AB_User_Guide_V1.2_20201111.pdf) |       |    648 | 480  |                    |
 | [SPD0301](Solomon/SPD0301.pdf)        | SSD1780                    |    128 | 64   |  `5_750` x `0_950` |
+| [SPD1656](Solomon/SPD1656.pdf)        | [UC8159c](UltraChip/UC8159c.pdf) |    640 | 480  |                    |
 | [SSD1305](Solomon/SSD1305.pdf)        | SSD1306                    |    132 | 64   |  `8_200` x `1_200` |
 | [SSD1306](Solomon/SSD1306.pdf)        | SSD1305                    |    132 | 64   |  `6_760` x `0_860` |
 | [SSD1306](Solomon/SSD1306.pdf)        | SSD1780                    |    128 | 64   |  `6_760` x `0_860` |
@@ -55,7 +56,6 @@
 | [SSD1607](Solomon/SSD1607.pdf)        |                            |    200 | 300  | `12_970` x `1_490` |
 | [SSD1608](Solomon/SSD1608.pdf)        |                            |    240 | 320  | `13_070` x `1_590` |
 | [SSD1619A](Solomon/SSD1619A.pdf)      |                            |    400 | 300  | `13_260` x `1_150` |
-| [SPD1656](Solomon/SPD1656.pdf)        | [UC8159c](UltraChip/UC8159c.pdf) |    640 | 480  |                    |
 | [SSD1673A](Solomon/SSD1673A.pdf)      |                            |    150 | 250  | `11_560` x `1_286` |
 | [SSD1675A](Solomon/SSD1675A.pdf) \*   |                            |    160 | 296  | `11_560` x `1_286` |
 | [SSD1675B](Solomon/SSD1675B.pdf)      |                            |    160 | 296  |  `9_661` x `1_125` |
