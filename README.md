@@ -61,10 +61,10 @@
 | [SSD1675B](Solomon/SSD1675B.pdf)      |                            |    160 | 296  |  `9_661` x `1_125` |
 | [SSD1677](Solomon/SSD1677.pdf)        | JD79686B / 1D79686A        |    960 | 680  | `22_250` x `1_510` |
 | [SSD1680(A)](Solomon/SSD1680.pdf)     | UC8251d / JD79651B / JD79656 / UC8252C |    176 | 296  |  `9_661` x `1_125` |
-| [SSD1681](SSD1681.pdf)        |                            |    200 | 200  |  `9_661` x `1_125` |
-| [SSD1683](SSD1683.pdf)        | [SSD1619A](Solomon/SSD1619A.pdf)   |    400 | 300  |                    |
-| [SSD1685](SSD1685.pdf)        |                            |    200 | 384  |                    |
-| [SSD2677](SSD2677_Rev1.1_N.pdf) |                          |    960 | 680  |                    |
+| [SSD1681](Solomon/SSD1681.pdf)        |                            |    200 | 200  |  `9_661` x `1_125` |
+| [SSD1683](Solomon/SSD1683.pdf)        | [SSD1619A](Solomon/SSD1619A.pdf)   |    400 | 300  |                    |
+| [SSD1685](Solomon/SSD1685.pdf)        |                            |    200 | 384  |                    |
+| [SSD2677](Solomon/SSD2677_Rev1.1_N.pdf) |                          |    960 | 680  |                    |
 | [TPS65185](TPS65185.pdf)      |                            |        |      |                    |
 | [UC8151c](UltraChip/UC8151c.pdf)        |                            |    160 | 296  |  `9_531` x `0_981` |
 | [UC8151d](UltraChip/UC8151d.pdf)        |                            |    160 | 296  |  `9_530` x `0_980` |
@@ -90,7 +90,6 @@
 | SSD1618                       | [SSD1608](Solomon/SSD1608.pdf)     |    240 | 320  |                    |
 | SSD1633                       |                            |    160 | 160  |                    |
 | SSD1656                       |                            |        |      |                    |
-| SSD1681                       |                            |        |      |                    |
 | SSD1780                       |                            |        |      |                    |
 | UC8111d                       |                            |        |      |                    |
 | UC8112c                       |                            |        |      |                    |
