@@ -32,9 +32,9 @@
 | [IST7163CA1-C](IST/IST7163CA1-C-20231220.pdf) |                    |        |      |            |
 | [IL91874](IL91874.pdf)        | [EK79652AA](fitipower/EK79652AA.pdf) |    320 | 300  | `15_550` x `1_160` |
 | [IT8951](ITE/IT8951_D_V0.2.4.3_20170728.pdf) |                 |   2048 | 2048 |                    |
-| [JD79632A](JD79632A.pdf)      | EK7616                     |    960 | 640  |                    |
-| [JD79651AB](JD79651.pdf)      |                            |        |      |                    |
-| [JD79651C](JD79651CA_DS_V1.0.1_20210409.pdf) |             |    176 | 296  |                    |
+| [JD79632A](JADARD/JD79632A.pdf)      | EK7616                     |    960 | 640  |                    |
+| [JD79651AB](JADARD/JD79651.pdf)      | [SSD1680](Solomon/SSD1680.pdf) |    176 | 296  |                    |
+| [JD79651C](JADARD/JD79651CA_DS_V1.0.1_20210409.pdf) |             |    176 | 296  |                    |
 | [JD79653A](JD79653A.pdf)      | EK79029                    |    200 | 200  |  `9_910` x `1_028` |
 | [JD79660AA](JD79660AA_datasheet_v1.0.4_20230620.pdf) |     |    200 | 200  |                    |
 | [JD79661AA](JD79661AA_V1.0.4_20230720_spec.pdf) |          |    176 | 296  |                    |
@@ -79,14 +79,11 @@
 | [UC8253](UltraChip/UC8253.pdf)          |                            |    240 | 480  |                    |
 | [UC8276](UltraChip/UC8276.pdf)          | [SSD1619A](Solomon/SSD1619A.pdf)   |    400 | 300  |                    |
 | [WF8101c](WF8101c.pdf)        | [UC8175c](UltraChip/UC8175c.pdf)     |     80 | 160  |  `3_530` x `2_730` |
-| EK7616                        |                            |    960 |      |                    |
-| EK79029                       |                            |        |      |                    |
-| EK79651AB                     | JD79651B                   |        |      |                    |
-| EK79686AB                     | JD79686B                   |        |      |                    |
-| JD79651B                      | [SSD1680](Solomon/SSD1680.pdf)     |    176 | 296  |                    |
+| EK79651AB [\*](misc/ER-EPD027-2_datasheet.pdf) | JD79651B                   |        |      |                    |
+| EK79686AB [\*](misc/QYEG0584RWF686F0_ V1.1.pdf) | JD79686B                   |        |      |                    |
 | JD79656                       | [SSD1680](Solomon/SSD1680.pdf) / UC8252C |    128 | 250  |                    |
 | JD79657                       |                            |    200 | 384  |                    |
-| JD79686B                      |                            |    800 | 600  |                    |
+| JD79686B [\*](misc/ER-EPD0583-1_Datasheet.pdf)[\*](misc/HINK-E0583A01-Spec-A2.pdf) |                            |    800 | 600  |                    |
 | SSD1618                       | [SSD1608](Solomon/SSD1608.pdf)     |    240 | 320  |                    |
 | SSD1633                       |                            |    160 | 160  |                    |
 | SSD1656                       |                            |        |      |                    |
