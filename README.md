@@ -41,7 +41,7 @@
 | [JD79665AA](JD79665AA_datasheet_v1.0.0_20230825.pdf) |     |    800 | 600  |                    |
 | [JD79668AA](JD79668AA_datasheet_v1.0.4_20230620.pdf) | EK79029DS | 400 | 300 |                  |
 | [JD79676A](JD79676A.pdf)      |                            |    128 | 250  |                    |
-| [JD79686A](JD79686AB_User_Guide_V1.2_20201111.pdf) |       |    648 | 480  |                    |
+| [JD79686A](JD79686AB_User_Guide_V1.2_20201111.pdf) | UC8179   |    648 | 480  |                    |
 | [SPD0301](Solomon/SPD0301.pdf)        | SSD1780                    |    128 | 64   |  `5_750` x `0_950` |
 | [SPD1656](Solomon/SPD1656_1.1.pdf)        | [UC8159c](UltraChip/UC8159c.pdf) |    640 | 480  |                    |
 | [SSD1305](Solomon/SSD1305.pdf)        | SSD1306                    |    132 | 64   |  `8_200` x `1_200` |
@@ -55,12 +55,12 @@
 | [SSD1606](Solomon/SSD1606.pdf)        |                            |    128 | 180  | `12_700` x `1_300` |
 | [SSD1607](Solomon/SSD1607.pdf)        |                            |    200 | 300  | `12_970` x `1_490` |
 | [SSD1608](Solomon/SSD1608.pdf)        |                            |    240 | 320  | `13_070` x `1_590` |
-| [SSD1619A](Solomon/SSD1619A.pdf)      |                            |    400 | 300  | `13_260` x `1_150` |
+| [SSD1619A](Solomon/SSD1619A.pdf)      | UC8276                     |    400 | 300  | `13_260` x `1_150` |
 | [SSD1673A](Solomon/SSD1673A.pdf)      |                            |    150 | 250  | `11_560` x `1_286` |
 | [SSD1675A](Solomon/SSD1675A.pdf) \*   |                            |    160 | 296  | `11_560` x `1_286` |
 | [SSD1675B](Solomon/SSD1675B.pdf)      |                            |    160 | 296  |  `9_661` x `1_125` |
-| [SSD1677](Solomon/SSD1677.pdf)        | JD79686B                   |    960 | 680  | `22_250` x `1_510` |
-| [SSD1680(A)](Solomon/SSD1680.pdf)     |                            |    176 | 296  |  `9_661` x `1_125` |
+| [SSD1677](Solomon/SSD1677.pdf)        | JD79686B / 1D79686A        |    960 | 680  | `22_250` x `1_510` |
+| [SSD1680(A)](Solomon/SSD1680.pdf)     | UC8251d / JD79651B         |    176 | 296  |  `9_661` x `1_125` |
 | [SSD1681](SSD1681.pdf)        |                            |    200 | 200  |  `9_661` x `1_125` |
 | [SSD1683](SSD1683.pdf)        | [SSD1619A](Solomon/SSD1619A.pdf)   |    400 | 300  |                    |
 | [SSD1685](SSD1685.pdf)        |                            |    200 | 384  |                    |
