@@ -128,10 +128,12 @@
 | IST    | [Integrated Solution Technology, Inc.]()                                      |
 | IT     | [ITE Tech. Inc.](https://www.ite.com.tw/en/product/cate5)                     |
 | JD     | [Jadard Technology](http://tdytech.com)                                       |
-| SSD    | [Solomon Systech Limited](https://www.solomon-systech.com)                    |
+| SSD    | [Solomon Systech Limited](https://www.solomon-systech.com) \*                 |
 | TPS    | [Texas Instruments Incorporated](https://www.ti.com)                          |
-| UC     | [Ultra Chip](http://www.ultrachip.com)                                        |
+| UC     | [Ultrachip Inc.](http://www.ultrachip.com) \*                                 |
 | WF     | [Wuxi Weifeng Technology](http://www.wf-tech.com)                             |
+
+- \* Solomon Systech Ltd and Ultrachip Inc. are likely closely related [UK Patent 2617917](https://patentimages.storage.googleapis.com/65/c0/bd/63468b15a18181/GB2617917B.pdf).
 
 ## Caveats
 
