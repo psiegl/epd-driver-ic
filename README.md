@@ -68,7 +68,7 @@
 | [TPS65185](TPS65185.pdf)      |                            |        |      |                    |
 | [UC8151c](UltraChip/UC8151c.pdf)        |                            |    160 | 296  |  `9_531` x `0_981` |
 | [UC8151d](UltraChip/UC8151d.pdf)        |                            |    160 | 296  |  `9_530` x `0_980` |
-| [UC8154](UltraChip/UC8154.pdf)          |                            |    200 | 300  |                    |
+| [UC8154c](UltraChip/UC8154.pdf)         |                            |    200 | 300  |                    |
 | [UC8157c](UltraChip/UC8157c.pdf)        |                            |    200 | 300  | `13_090` x `1_530` |
 | [UC8159c](UltraChip/UC8159c.pdf)        |                            |    640 | 480  | `17_620` x `1_670` |
 | [UC8171c](UltraChip/UC8171c.pdf)        |                            |    240 | 512  | `11_130` x `1_190` |
@@ -90,8 +90,19 @@
 | SSD1618                       | [SSD1608](Solomon/SSD1608.pdf)     |    240 | 320  |                    |
 | SSD1633                       |                            |    160 | 160  |                    |
 | SSD1780                       |                            |        |      |                    |
+| UC8111d                       |                            |        |      |                    |
+| UC8112c                       |                            |        |      |                    |
+| UC8113c                       |                            |        |      |                    |
+| UC8118c                       |                            |        |      |                    |
+| UC8119c                       |                            |        |      |                    |
+| UC8120                        |                            |        |      |                    |
+| UC8124                        |                            |        |      |                    |
+| UC8130                        |                            |        |      |                    |
+| UC8137                        |                            |        |      |                    |
 | UC8142c                       |                            |    512 | 384  |                    |
 | UC8143c                       |                            |    384 | 512  |                    |
+| UC8152c                       |                            |        |      |                    |
+| UC8155c                       |                            |        |      |                    |
 | UC8251d                       | [SSD1680](Solomon/SSD1680.pdf)     |        |      |                    |
 
 - \* The difference between SSD1675A and SSD1675B
