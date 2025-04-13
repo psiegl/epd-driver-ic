@@ -41,7 +41,7 @@
 | [JD79665AA](JADARD/JD79665AA_datasheet_v1.0.0_20230825.pdf) |     |    800 | 600  |                    |
 | [JD79668AA](JADARD/JD79668AA_datasheet_v1.0.4_20230620.pdf) | EK79029DS | 400 | 300 |                  |
 | [JD79676A](JADARD/JD79676A.pdf)      |                            |    128 | 250  |                    |
-| [JD79686A](JADARD/JD79686AB_User_Guide_V1.2_20201111.pdf) | [UC8179c](UltraChip/UC8179c.pdf) |    648 | 480  |                    |
+| [JD79686AB](JADARD/JD79686AB_User_Guide_V1.2_20201111.pdf)[\*](misc/ABUIABA9GAAgwbW8vAYo7YHYoAY.pdf) | [UC8179c](UltraChip/UC8179c.pdf) |    648 | 480  |                    |
 | [SPD0301](Solomon/SPD0301.pdf)        | SSD1780                    |    128 | 64   |  `5_750` x `0_950` |
 | [SPD1656](Solomon/SPD1656_1.1.pdf)        | [UC8159c](UltraChip/UC8159c.pdf) |    640 | 480  |                    |
 | [SSD1305](Solomon/SSD1305.pdf)        | SSD1306                    |    132 | 64   |  `8_200` x `1_200` |
