@@ -81,9 +81,10 @@
 | [WF8101c](WF8101c.pdf)        | [UC8175c](UltraChip/UC8175c.pdf)     |     80 | 160  |  `3_530` x `2_730` |
 | EK79651AB [\*](misc/ER-EPD027-2_datasheet.pdf) | JD79651B                   |        |      |                    |
 | EK79686AB [\*](misc/QYEG0584RWF686F0_V1.1.pdf) | JD79686B                   |        |      |                    |
+| JD79686B [\*](misc/ER-EPD0583-1_Datasheet.pdf)[\*](misc/HINK-E0583A01-Spec-A2.pdf) |                            |    800 | 600  |                    |
+| UC8252C [\*](misc/HINK-E0213A198-A1pdf.pdf) | SSD1680 / JD79656           |       |      |                    |
 | JD79656                       | [SSD1680](Solomon/SSD1680.pdf) / UC8252C |    128 | 250  |                    |
 | JD79657                       |                            |    200 | 384  |                    |
-| JD79686B [\*](misc/ER-EPD0583-1_Datasheet.pdf)[\*](misc/HINK-E0583A01-Spec-A2.pdf) |                            |    800 | 600  |                    |
 | SSD1618                       | [SSD1608](Solomon/SSD1608.pdf)     |    240 | 320  |                    |
 | SSD1633                       |                            |    160 | 160  |                    |
 | SSD1656                       |                            |        |      |                    |
@@ -105,7 +106,6 @@
 | UC8155c                       |                            |        |      |                    |
 | UC8159                        |                            |        |      |                    |
 | UC8251d                       | [SSD1680](Solomon/SSD1680.pdf)     |        |      |                    |
-| UC8252C                       | SSD1680 / JD79656           |       |      |                    |
 
 - \* The difference between SSD1675A and SSD1675B
 - \*\* Die Size Unit: [µm], Tolerance: 40
