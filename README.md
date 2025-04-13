@@ -15,8 +15,8 @@
 | [EK79632A](fitipower/EK79632A_rev_1.0.pdf) |                         |    960 | 640  |                    |
 | [GD7965](GooDisplay/GD7965.pdf)          | [UC8179c](UltraChip/UC8179c.pdf)     |    800 | 600  | `18_512` x `1_142` |
 | [GD8102](GooDisplay/GD8102.pdf)          | [UC8171c](UltraChip/UC8171c.pdf)     |    240 | 512  | `11_130` x `1_190` |
-| [HX8705-B](HX8705-B.pdf)      |                            |    800 | 600  | `21_702` x `1_112` |
-| [HX8717-A](HX8717-A_DS_preliminary_v01_230417.pdf) |       |    400 | 300  |                    |
+| [HX8705-B](Himax/HX8705-B.pdf)      |                            |    800 | 600  | `21_702` x `1_112` |
+| [HX8717-A](Himax/HX8717-A_DS_preliminary_v01_230417.pdf) |       |    400 | 300  |                    |
 | [IL0323](IL0323.pdf)          | [UC8175c](UltraChip/UC8175c.pdf)     |     80 | 160  |  `3_530` x `2_730` |
 | [IL0324](IL0324.pdf)          | [UC8171c](UltraChip/UC8171c.pdf)     |    240 | 512  | `11_130` x `1_190` |
 | [IL0326](IL0326.pdf)          | [UC8179c](UltraChip/UC8179c.pdf)     |    800 | 600  | `18_512` x `1_142` |
@@ -35,13 +35,13 @@
 | [JD79632A](JADARD/JD79632A.pdf)      | EK7616                     |    960 | 640  |                    |
 | [JD79651AB](JADARD/JD79651.pdf)      | [SSD1680](Solomon/SSD1680.pdf) |    176 | 296  |                    |
 | [JD79651C](JADARD/JD79651CA_DS_V1.0.1_20210409.pdf) |             |    176 | 296  |                    |
-| [JD79653A](JD79653A.pdf)      | EK79029                    |    200 | 200  |  `9_910` x `1_028` |
-| [JD79660AA](JD79660AA_datasheet_v1.0.4_20230620.pdf) |     |    200 | 200  |                    |
-| [JD79661AA](JD79661AA_V1.0.4_20230720_spec.pdf) |          |    176 | 296  |                    |
-| [JD79665AA](JD79665AA_datasheet_v1.0.0_20230825.pdf) |     |    800 | 600  |                    |
-| [JD79668AA](JD79668AA_datasheet_v1.0.4_20230620.pdf) | EK79029DS | 400 | 300 |                  |
-| [JD79676A](JD79676A.pdf)      |                            |    128 | 250  |                    |
-| [JD79686A](JD79686AB_User_Guide_V1.2_20201111.pdf) | [UC8179c](UltraChip/UC8179c.pdf) |    648 | 480  |                    |
+| [JD79653A](JADARD/JD79653A.pdf)      | EK79029                    |    200 | 200  |  `9_910` x `1_028` |
+| [JD79660AA](JADARD/JD79660AA_datasheet_v1.0.4_20230620.pdf) |     |    200 | 200  |                    |
+| [JD79661AA](JADARD/JD79661AA_V1.0.4_20230720_spec.pdf) |          |    176 | 296  |                    |
+| [JD79665AA](JADARD/JD79665AA_datasheet_v1.0.0_20230825.pdf) |     |    800 | 600  |                    |
+| [JD79668AA](JADARD/JD79668AA_datasheet_v1.0.4_20230620.pdf) | EK79029DS | 400 | 300 |                  |
+| [JD79676A](JADARD/JD79676A.pdf)      |                            |    128 | 250  |                    |
+| [JD79686A](JADARD/JD79686AB_User_Guide_V1.2_20201111.pdf) | [UC8179c](UltraChip/UC8179c.pdf) |    648 | 480  |                    |
 | [SPD0301](Solomon/SPD0301.pdf)        | SSD1780                    |    128 | 64   |  `5_750` x `0_950` |
 | [SPD1656](Solomon/SPD1656_1.1.pdf)        | [UC8159c](UltraChip/UC8159c.pdf) |    640 | 480  |                    |
 | [SSD1305](Solomon/SSD1305.pdf)        | SSD1306                    |    132 | 64   |  `8_200` x `1_200` |
