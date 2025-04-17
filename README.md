@@ -83,6 +83,21 @@
 | EK79686AB [\*](misc/QYEG0584RWF686F0_V1.1.pdf) | JD79686B                   |        |      |                    |
 | JD79686B [\*](misc/ER-EPD0583-1_Datasheet.pdf)[\*](misc/HINK-E0583A01-Spec-A2.pdf) |                            |    800 | 600  |                    |
 | UC8252C [\*](misc/HINK-E0213A198-A1pdf.pdf) | SSD1680 / JD79656           |       |      |                    |
+| IST7133                       |                            |       |       |                    |
+| IST7134                       |                            |       |       |                    |
+| IST7138                       |                            |       |       |                    |
+| IST7152                       |                            |       |       |                    |
+| IST7156                       |                            |       |       |                    |
+| IST7158                       |                            |       |       |                    |
+| IST7160                       |                            |       |       |                    |
+| IST7161                       |                            |       |       |                    |
+| IST7186M                      |                            |       |       |                    |
+| IST7187M                      |                            |       |       |                    |
+| IST7188M                      |                            |       |       |                    |
+| IST7190M                      |                            |       |       |                    |
+| IST7191M                      |                            |       |       |                    |
+| IST7193M                      |                            |       |       |                    |
+| IST7400                       |                            |       |       |                    |
 | JD79656                       | [SSD1680](Solomon/SSD1680.pdf) / UC8252C |    128 | 250  |                    |
 | JD79657                       |                            |    200 | 384  |                    |
 | SSD1618                       | [SSD1608](Solomon/SSD1608.pdf)     |    240 | 320  |                    |
