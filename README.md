@@ -139,7 +139,7 @@
 | IST    | [Integrated Solution Technology, Inc.](https://www.ist4u.com/web/index/index.jsp) \* |
 | IT     | [ITE Tech. Inc.](https://www.ite.com.tw/en/product/cate5)                     |
 | JD     | [Jadard Technology](http://tdytech.com)                                       |
-|        | [Novatek]() \*                                                                |
+|        | [Novatek](https://www.novatek.com.tw/en-global/Product/product/Index/product2) \* |
 | SSD    | [Solomon Systech Limited](https://www.solomon-systech.com) \*                 |
 | TPS    | [Texas Instruments Incorporated](https://www.ti.com)                          |
 | UC     | [Ultrachip Inc.](http://www.ultrachip.com) \*                                 |
