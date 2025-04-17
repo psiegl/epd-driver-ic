@@ -117,19 +117,20 @@
 | Series | Manufacturer                                                                  |
 | ------ | ----------------------------------------------------------------------------- |
 | AVT    | [Avatar Semiconductor](https://www.linkedin.com/company/avatar-semiconductor) |
-| EK     | [Fitipower Integrated Technology](https://www.fitipower.com)                  |
+| EK     | [Fitipower Integrated Technology](https://www.fitipower.com)  \*              |
 | GD     | [Good Display](https://www.good-display.com)                                  |
-| HX     | [Himax Technologies](https://www.himax.com.tw)                                |
+| HX     | [Himax Technologies](https://www.himax.com.tw)  \*                            |
 | IL     | [Good Display](https://www.good-display.com)                                  |
-| IST    | [Integrated Solution Technology, Inc.]()                                      |
+| IST    | [Integrated Solution Technology, Inc.]()  \*                                  |
 | IT     | [ITE Tech. Inc.](https://www.ite.com.tw/en/product/cate5)                     |
 | JD     | [Jadard Technology](http://tdytech.com)                                       |
+|        | [Novatek]()  \*                                                               |
 | SSD    | [Solomon Systech Limited](https://www.solomon-systech.com) \*                 |
 | TPS    | [Texas Instruments Incorporated](https://www.ti.com)                          |
 | UC     | [Ultrachip Inc.](http://www.ultrachip.com) \*                                 |
 | WF     | [Wuxi Weifeng Technology](http://www.wf-tech.com)                             |
 
-- \* Solomon Systech Ltd and Ultrachip Inc. are likely closely related [UK Patent 2617917](https://patentimages.storage.googleapis.com/65/c0/bd/63468b15a18181/GB2617917B.pdf) / [US Patent WO2022/096882 AI](https://patentimages.storage.googleapis.com/54/53/cf/32f98057168956/WO2022096882A1.pdf).
+- \* [E-Ink industry partner](https://goodereader.com/blog/e-paper/e-ink-introduces-ripple-to-power-color-e-paper)
 
 ## Caveats
 
