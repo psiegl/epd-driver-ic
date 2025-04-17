@@ -117,14 +117,14 @@
 | Series | Manufacturer                                                                  |
 | ------ | ----------------------------------------------------------------------------- |
 | AVT    | [Avatar Semiconductor](https://www.linkedin.com/company/avatar-semiconductor) |
-| EK     | [Fitipower Integrated Technology](https://www.fitipower.com)  \*              |
+| EK     | [Fitipower Integrated Technology](https://www.fitipower.com) \*               |
 | GD     | [Good Display](https://www.good-display.com)                                  |
-| HX     | [Himax Technologies](https://www.himax.com.tw)  \*                            |
+| HX     | [Himax Technologies](https://www.himax.com.tw) \*                             |
 | IL     | [Good Display](https://www.good-display.com)                                  |
-| IST    | [Integrated Solution Technology, Inc.]()  \*                                  |
+| IST    | [Integrated Solution Technology, Inc.](https://www.ist4u.com/web/index/index.jsp) \* |
 | IT     | [ITE Tech. Inc.](https://www.ite.com.tw/en/product/cate5)                     |
 | JD     | [Jadard Technology](http://tdytech.com)                                       |
-|        | [Novatek]()  \*                                                               |
+|        | [Novatek]() \*                                                                |
 | SSD    | [Solomon Systech Limited](https://www.solomon-systech.com) \*                 |
 | TPS    | [Texas Instruments Incorporated](https://www.ti.com)                          |
 | UC     | [Ultrachip Inc.](http://www.ultrachip.com) \*                                 |
